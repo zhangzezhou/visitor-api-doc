@@ -4,9 +4,9 @@
   "data": {
     ...
   },
-  "resultCode": "...",         // String
-  "resultMsg": "...",      // String
-  "errorMsg": "..."        // String
+  "resultCode": "...",         
+  "resultMsg": "...",      
+  "errorMsg": "..."        
 }
 ```
 ## 响应体参数说明
