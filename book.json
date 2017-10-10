@@ -16,7 +16,8 @@
         "-highlight",
         "-livereload",
         "tbfed-pagefooter",
-        "anchors" 
+        "anchors" ,
+        "anchor-navigation-ex"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
