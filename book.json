@@ -7,7 +7,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "Home": "http://baidu.com"
+            "Home": "#"
         }
     },
     "plugins": [
