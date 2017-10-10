@@ -24,6 +24,13 @@
             "copyright": "Copyright © zhangzezhou123@gmail.com 2017",
             "modify_label": "modify time：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
         }
     }
 }
