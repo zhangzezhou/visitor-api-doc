@@ -11,79 +11,13 @@
         }
     },
     "plugins": [
-        "-lunr",
-        "-search",
-        "-highlight",
-        "-livereload",
-        "search-plus",
         "simple-page-toc",
-        "github",
-        "github-buttons",
-        "edit-link",
-        "disqus",
-        "prism",
-        "prism-themes",
-        "advanced-emoji",
         "anchors",
-        "include-codeblock",
         "ace",
-        "emphasize",
-        "katex",
-        "splitter",
-        "mermaid",
-        "tbfed-pagefooter",
-        "expandable-chapters-small",
-        "sectionx",
-        "donate",
-        "local-video",
-        "sitemap-general",
         "anchor-navigation-ex",
-        "favicon",
-        "todo",
-        "3-ba"
+        "tbfed-pagefooter@^0.0.1",
     ],
     "pluginsConfig": {
-        "theme-default": {
-            "showLevel": true
-        },
-        "disqus": {
-            "shortName": "gitbookuse"
-        },
-        "prism": {
-            "css": [
-                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
-            ]
-        },
-        "github": {
-            "url": "https://github.com/zhangjikai/gitbook-use"
-        },
-        "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
-            "types": [
-                "star"
-            ],
-            "size": "small"
-        },
-        "include-codeblock": {
-            "template": "ace",
-            "unindent": true,
-            "edit": true
-        },
-        "sharing": {
-            "weibo": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false,
-            "instapaper": false,
-            "vk": false,
-            "all": [
-                "facebook",
-                "google",
-                "twitter",
-                "weibo",
-                "instapaper"
-            ]
-        },
         "tbfed-pagefooter": {
             "copyright": "Copyright © zhangjikai.com 2017",
             "modify_label": "该文件修订时间：",
