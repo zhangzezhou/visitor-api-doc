@@ -15,7 +15,8 @@
         "-search",
         "-highlight",
         "-livereload",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+         "anchors" 
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
