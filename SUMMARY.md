@@ -8,8 +8,9 @@
   * [分页结构](data-struct/page.md)
 * [用户接口](user/login.md)
   * [登录接口](user/login.md)
-* [预约接口](/appointment/appointment.md)
-  * [新增预约接口](/appointment/appointment.md)
-
+* [预约接口](/appointment/addAppointment.md)
+  * [新增预约接口](/appointment/addAppointment.md)
+* [签到接口](/signInfo/addSignInfo.md)
+  * [签到接口](/signInfo/addSignInfo.md)
 
 
