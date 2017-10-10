@@ -5,12 +5,9 @@
     "language": "zh-hans",
     "gitbook": "3.2.2",
     "root": ".",
-    "structure": {
-        "readme": "introduction.md"
-    },
     "links": {
         "sidebar": {
-            "Home": "http://www.zhangjikai.com"
+            "Home": "http://baidu.com"
         }
     },
     "plugins": [
