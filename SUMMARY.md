@@ -7,9 +7,8 @@
   * [响应基本格式](data-struct/response.md)
   * [分页结构](data-struct/page.md)
 * [用户接口](user/login.md)
-  * [登录接口](user/login.md)
 
-  [用户接口](#)
+  * [登录接口](user/login.md)
 
   * [预约接口](/appointment/appointment.md)
 
