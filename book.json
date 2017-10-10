@@ -11,27 +11,14 @@
         }
     },
     "plugins": [
-        "simple-page-toc",
-        "anchors",
-        "ace",
-        "anchor-navigation-ex",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "ace"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
             "copyright": "Copyright © zhangzezhou123@gmail.com 2017",
             "modify_label": "modify time：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
-        },
-        "anchor-navigation-ex": {
-            "isRewritePageTitle": false,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
         }
     }
 }

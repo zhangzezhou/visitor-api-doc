@@ -1,4 +1,4 @@
-## 用户登录
+# 用户登录
 ### 接口地址：``{{base_url}}/api/app/accessToken ``
 ### 请求方法：POST
 ### 请求头：
@@ -16,8 +16,9 @@ password  | string | 密码| 是
 accessToken  | string | 令牌
 expiresIn  | string | 令牌过期时间
 data  | User | 用户基本信息
-descrpt  | string | 日志描述
-
+resultCode  | string | [状态码](data-struct/code.md)
+resultMsg | string | 返回结果说明
+errorMsg | string | 异常信息
 ### 请求示例：
 ```  
 {{base_url}}/api/app/accessToken
