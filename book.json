@@ -15,7 +15,7 @@
         "anchors",
         "ace",
         "anchor-navigation-ex",
-        "tbfed-pagefooter@^0.0.1",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
