@@ -11,8 +11,7 @@
         }
     },
     "plugins": [
-        "tbfed-pagefooter",
-        "ace"
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
