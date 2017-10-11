@@ -22,7 +22,7 @@
 
 | 参数 | 参数类型 | 描述 |
 | --- | --- | --- |
-| data | SignInfo | 签到信息 |
+| data | [SignInfo](#Body) | 签到信息 |
 | resultCode | string | [状态码](/data-struct/code.md) |
 | resultMsg | string | 返回结果说明 |
 | errorMsg | string | 异常信息 |
