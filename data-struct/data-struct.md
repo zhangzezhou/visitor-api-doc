@@ -23,7 +23,7 @@ status | Number | 审核状态，1是审核中，2是审核成功，3是审核�
 createTime | Number | 创建时间
 updateTime | Number | 更新时间
 
-## Appointment参数说明
+## SignInfo参数说明
 参数 | 类型 | 描述
 ---| ---|---
 appointmentId | String | 预约id
