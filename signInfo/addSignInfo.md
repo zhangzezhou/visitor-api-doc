@@ -9,7 +9,7 @@
 | 参数 | 参数值 | 是否必选 |
 | --- | --- | --- |
 | Content-Type | application/json | 是 |
-| accessToken | {accessToken} | 是 |
+| accessToken | ${accessToken} | 是 |
 
 ### 请求参数:
 
