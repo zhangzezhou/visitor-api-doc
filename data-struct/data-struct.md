@@ -29,8 +29,8 @@ updateTime | Number | 更新时间
 signInfoId| String | 签到id
 userId| String | 签到用户id(app_user_id)
 longitude| String | 经度
-latitude| Number | 纬度
-visitorCompanyName | String | 来访者企业名
+latitude| String | 纬度
+faceImageUrl| String | 来访者企业名
 visitorCompanyId | String | 来访者企业id
 visitorTel | String | 来访者手机号
 visitorLicencePlateNum | String | 来访者车牌号
