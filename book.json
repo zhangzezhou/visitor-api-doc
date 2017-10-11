@@ -15,6 +15,7 @@
         "-search",
         "-highlight",
         "-livereload",
+        "prism",
         "tbfed-pagefooter",
         "anchors" 
     ],
