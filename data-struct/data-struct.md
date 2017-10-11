@@ -30,7 +30,7 @@ signInfoId| String | 签到id
 userId| String | 签到用户id(app_user_id)
 longitude| String | 经度
 latitude| String | 纬度
-faceImageUrl| String | 来访者企业名
+faceImageUrl| String | 签到照片url
 visitorCompanyId | String | 来访者企业id
 visitorTel | String | 来访者手机号
 visitorLicencePlateNum | String | 来访者车牌号
