@@ -1,4 +1,4 @@
-# 新增签到接口
+[](/data-struct/data-struct.md##abc)# 新增签到接口
 
 接口地址：`{{base_url}}/api/app/signInfo`
 
