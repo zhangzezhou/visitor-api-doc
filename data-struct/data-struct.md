@@ -27,7 +27,7 @@ updateTime | Number | 更新时间
 参数 | 类型 | 描述
 ---| ---|---
 signInfoId| String | 签到id
-visitorId | String | 来访者用户id
+userId| String | 签到用户id(app_user_id)
 visitorName | String | 来访者姓名
 visitorGender | Number | 来访者性别，1表示男，2表示女
 visitorCompanyName | String | 来访者企业名
