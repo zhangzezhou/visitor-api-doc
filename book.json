@@ -16,8 +16,7 @@
         "-highlight",
         "-livereload",
         "tbfed-pagefooter",
-        "anchors" ,
-        "anchor-navigation-ex"
+        "anchors" 
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
@@ -25,12 +24,6 @@
             "modify_label": "modify time：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "anchor-navigation-ex": {
-            "isRewritePageTitle": true,
-            "isShowTocTitleIcon": true,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
-        }
+        
     }
 }
