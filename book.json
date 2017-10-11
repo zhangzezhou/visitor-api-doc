@@ -16,6 +16,7 @@
         "-highlight",
         "-livereload",
         "prism",
+        "prism-themes"
         "tbfed-pagefooter",
         "anchors" 
     ],
