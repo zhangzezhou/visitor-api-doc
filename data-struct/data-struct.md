@@ -39,6 +39,16 @@
 | signTime | Number | 签到时间（时间戳） |
 
 ## follower参数说明
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| signInfoId | String | 签到id |
+| userId | String | 签到用户id\(app\_user\_id\) |
+| longitude | String | 经度 |
+| latitude | String | 纬度 |
+| faceImageUrl | String | 签到照片url |
+| companyId | String | 签到者企业id |
+| signTime | Number | 签到时间（时间戳） |
+
 
 
 
