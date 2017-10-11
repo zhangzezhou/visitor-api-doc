@@ -22,7 +22,7 @@
 | appointmentTime | Number | 预约时间,时间戳 |
 | deliveryOrderNum | String | 提货单号 |
 | status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
-| followerList| | 审核状态，1是审核中，2是审核成功，3是审核失败 |
+| followerList | Arrary&lt;Follower&gt; | 审核状态，1是审核中，2是审核成功，3是审核失败 |
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
@@ -37,6 +37,8 @@
 | faceImageUrl | String | 签到照片url |
 | companyId | String | 签到者企业id |
 | signTime | Number | 签到时间（时间戳） |
+
 # abc
+
 
 
