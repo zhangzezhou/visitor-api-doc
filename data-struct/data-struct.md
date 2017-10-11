@@ -1,6 +1,6 @@
 # 数据结构
 
-## Appointment参数说明 {#appointment}
+## Appointment参数说明
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
