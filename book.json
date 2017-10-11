@@ -28,7 +28,7 @@
         },
         "prism": {
             "css": [
-                ""prism-themes/themes/prism-duotone-dark.css""
+                "prism-themes/themes/prism-duotone-dark.css"
             ]
         }
     
