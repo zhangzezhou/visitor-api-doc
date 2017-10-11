@@ -28,7 +28,7 @@ updateTime | Number | 更新时间
 ---| ---|---
 signInfoId| String | 签到id
 userId| String | 签到用户id(app_user_id)
-visitorName | String | 来访者姓名
+longitude| String | longitude
 visitorGender | Number | 来访者性别，1表示男，2表示女
 visitorCompanyName | String | 来访者企业名
 visitorCompanyId | String | 来访者企业id
