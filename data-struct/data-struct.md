@@ -22,8 +22,7 @@
 | appointmentTime | Number | 预约时间,时间戳 |
 | deliveryOrderNum | String | 提货单号 |
 | status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
-| status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
-
+| followerList| Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
