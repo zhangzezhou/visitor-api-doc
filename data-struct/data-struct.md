@@ -32,7 +32,7 @@ longitude| String | 经度
 latitude| String | 纬度
 faceImageUrl| String | 签到照片url
 companyId| String | 签到者企业id
-signTime| Number| 来访者手机号
+signTime| Number| 签到时间（时间戳）
 visitorLicencePlateNum | String | 来访者车牌号
 visitorDepart | String | 来访者部门
 visitorPosition | String | 来访者职位
