@@ -73,7 +73,7 @@
 | senderId| String | 发送者id |
 | title| String | 消息标题|
 | summary| String | 消息摘要|
-| contentId| String | 消息标题|
+| contentId| String | 内容id|
 | title| String | 消息标题|
 | title| String | 消息标题|
 | title| String | 消息标题|
