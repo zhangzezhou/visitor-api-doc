@@ -70,8 +70,8 @@
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | noticeReceiverId| String | 消息通知id|
-| appkey| String | 应用秘钥 |
-| companyId| String | 企业id|
+| senderId| String | 发送者id |
+| receiverId| String | 企业id|
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
