@@ -41,7 +41,7 @@
 ## Follower参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| followerId| String | 签到id |
+| followerId| String | 随行id |
 | followerPortaitUrl| String | 随行人头像url |
 | followerName| String | 随行人姓名|
 | appointmentId| String | 预约id|
@@ -53,6 +53,28 @@
 | companyName| String | 公司名 |
 | address| String | 地址|
 | legalPerson| String | 负责人|
+| legalPerson| String | 负责人|
+
+
+
+
+
+
+
+
+
+
+| legalPerson| String | 负责人|
+
+
+
+
+
+
+
+
+
+
 
 
 
