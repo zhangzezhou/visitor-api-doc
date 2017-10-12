@@ -49,10 +49,10 @@
 ## Company参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| companyId| String | 签到id |
-| followerPortaitUrl| String | 随行人头像url |
-| followerName| String | 随行人姓名|
-| appointmentId| String | 预约id|
+| companyId| String | 企业id|
+| companyName| String | 公司名 |
+| address| String | 地址|
+| legal_person| String | 预约id|
 
 
 
