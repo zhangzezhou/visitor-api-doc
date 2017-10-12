@@ -55,7 +55,7 @@
 | legalPerson| String | 负责人|
 | email| String | 邮箱|
 | contacts| String | 联系人|
-| companyDomain| String | 负责人|
+| companyDomain| String | 公司域名|
 | legalPerson| String | 负责人|
 | legalPerson| String | 负责人|
 | legalPerson| String | 负责人|
