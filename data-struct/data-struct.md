@@ -76,7 +76,7 @@
 | contentId| String | 内容id|
 | content| T | 内容的类型根据contenType确定|
 | contentType| String | 消息通知类别|
-| read| Number | 是否已读|
+| read| Boolean| 是否已读|
 | title| String | 消息标题|
 | title| String | 消息标题|
 | title| String | 消息标题|
