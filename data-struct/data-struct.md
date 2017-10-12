@@ -41,7 +41,7 @@
 ## Follower参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| signInfoId | String | 签到id |
+| followerId| String | 签到id |
 | userId | String | 签到用户id\(app\_user\_id\) |
 | longitude | String | 经度 |
 | latitude | String | 纬度 |
