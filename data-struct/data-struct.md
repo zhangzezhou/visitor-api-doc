@@ -72,7 +72,7 @@
 | noticeReceiverId| String | 消息通知id|
 | senderId| String | 发送者id |
 | title| String | 消息标题|
-| title| String | 消息标题|
+| summary| String | 消息摘要|
 | title| String | 消息标题|
 | title| String | 消息标题|
 | title| String | 消息标题|
