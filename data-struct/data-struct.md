@@ -71,7 +71,15 @@
 | --- | --- | --- |
 | noticeReceiverId| String | 消息通知id|
 | senderId| String | 发送者id |
-| title| String | 接收方id|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
+| title| String | 消息标题|
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
