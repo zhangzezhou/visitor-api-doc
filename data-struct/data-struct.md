@@ -53,9 +53,9 @@
 | companyName| String | 公司名 |
 | address| String | 地址|
 | legalPerson| String | 负责人|
-| legalPerson| String | 负责人|
-| legalPerson| String | 负责人|
-| legalPerson| String | 负责人|
+| email| String | 邮箱|
+| contacts| String | 联系人|
+| company_domain| String | 负责人|
 | legalPerson| String | 负责人|
 | legalPerson| String | 负责人|
 | legalPerson| String | 负责人|
