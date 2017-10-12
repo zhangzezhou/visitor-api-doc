@@ -52,7 +52,7 @@
 | companyId| String | 企业id|
 | companyName| String | 公司名 |
 | address| String | 地址|
-| legal_person| String | 预约id|
+| legalPerson| String | 负责人|
 
 
 
