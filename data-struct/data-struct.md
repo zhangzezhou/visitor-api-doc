@@ -44,7 +44,7 @@
 | followerId| String | 签到id |
 | followerPortaitUrl| String | 随行人头像url |
 | followerName| String | 随行人姓名|
-| appointmentId| String | 纬度 |
+| appointmentId| String | 预约id|
 | faceImageUrl | String | 签到照片url |
 | companyId | String | 签到者企业id |
 | signTime | Number | 签到时间（时间戳） |
