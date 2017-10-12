@@ -64,10 +64,6 @@
 | appid| String | 应用id|
 | appkey| String | 应用秘钥 |
 | companyId| String | 企业id|
-| legalPerson| String | 负责人|
-| email| String | 邮箱|
-| contacts| String | 联系人|
-| companyDomain| String | 公司域名|
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
