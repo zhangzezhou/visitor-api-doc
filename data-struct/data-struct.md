@@ -61,9 +61,9 @@
 ## CompanyAuth参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| appid| String | 企业id|
-| companyName| String | 公司名 |
-| address| String | 地址|
+| appid| String | 应用id|
+| appkey| String | 应用秘钥 |
+| companyId| String | 企业id|
 | legalPerson| String | 负责人|
 | email| String | 邮箱|
 | contacts| String | 联系人|
