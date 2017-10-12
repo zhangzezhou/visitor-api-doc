@@ -38,7 +38,7 @@
 | companyId | String | 签到者企业id |
 | signTime | Number | 签到时间（时间戳） |
 
-## follower参数说明
+## Follower参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | signInfoId | String | 签到id |
