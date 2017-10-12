@@ -78,8 +78,6 @@
 | contentType| String | 消息通知类别|
 | read| Boolean| 是否已读|
 | inTrash| Boolean| 是否已删除|
-| title| String | 消息标题|
-| title| String | 消息标题|
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
