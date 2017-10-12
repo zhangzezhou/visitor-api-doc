@@ -54,17 +54,14 @@
 | address| String | 地址|
 | legalPerson| String | 负责人|
 | legalPerson| String | 负责人|
-
-
-
-
-
-
-
-
-
-
 | legalPerson| String | 负责人|
+| legalPerson| String | 负责人|
+| legalPerson| String | 负责人|
+| legalPerson| String | 负责人|
+| legalPerson| String | 负责人|
+
+
+
 
 
 
