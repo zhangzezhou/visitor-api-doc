@@ -66,6 +66,36 @@
 | companyId| String | 企业id|
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
+## NoticeReceiver参数说明
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| appid| String | 应用id|
+| appkey| String | 应用秘钥 |
+| companyId| String | 企业id|
+| createTime | Number | 创建时间 |
+| updateTime | Number | 更新时间 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
