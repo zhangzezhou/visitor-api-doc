@@ -74,7 +74,7 @@
 | title| String | 消息标题|
 | summary| String | 消息摘要|
 | contentId| String | 内容id|
-| content| String | 消息标题|
+| content| T| 消息标题|
 | title| String | 消息标题|
 | title| String | 消息标题|
 | title| String | 消息标题|
