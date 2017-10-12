@@ -75,7 +75,7 @@
 | summary| String | 消息摘要|
 | contentId| String | 内容id|
 | content| T | 内容的类型根据contenType确定|
-| title| String | 消息标题|
+| contentType| String | 消息通知类别|
 | title| String | 消息标题|
 | title| String | 消息标题|
 | title| String | 消息标题|
