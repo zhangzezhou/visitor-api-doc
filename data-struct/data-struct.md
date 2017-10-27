@@ -9,9 +9,9 @@
 | companyId| String | 企业Id |
 | phone| String | 联系方式 |
 | idCard| String | 身份证号|
-| visitorLicencePlateNum | String | 来访者车牌号 |
-| visitorDepart | String | 来访者部门 |
-| visitorPosition | String | 来访者职位 |
+| certificateName | String |资格证书名称 |
+| certificateNum| String | 来访者部门 |
+| gender| Integer| 来访者职位 |
 | visitorPortaitUrl | String | 来访者面部采样照片 |
 | intervieweeName | String | 受访者姓名 |
 | intervieweeDepart | String | 受访者部门 |
