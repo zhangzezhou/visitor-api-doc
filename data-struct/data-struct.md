@@ -10,17 +10,13 @@
 | phone| String | 联系方式 |
 | idCard| String | 身份证号|
 | certificateName | String |资格证书名称 |
-| certificateNum| String | 来访者部门 |
-| gender| Integer| 来访者职位 |
-| visitorPortaitUrl | String | 来访者面部采样照片 |
-| intervieweeName | String | 受访者姓名 |
-| intervieweeDepart | String | 受访者部门 |
-| intervieweeCompanyId | String | 受访者企业id |
-| appointmentReason | String | 预约事由 |
-| appointmentTime | Number | 预约时间,时间戳 |
-| deliveryOrderNum | String | 提货单号 |
-| status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
-| followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
+| certificateNum| String | 资格证书号码 |
+| gender| Integer| 性别，1表示男，2表示女 |
+| faceImageUrl| String | 面部采样图片url |
+| departId | String | 部门id |
+| depart| String | 部门信息 |
+| position| String | 受访者企业id |
+| email| String | 预约事由 |
 
 
 
