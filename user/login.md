@@ -37,24 +37,35 @@ errorMsg | string | 异常信息
 ### 返回示例
 ```json
 {
-    "accessToken": "002baaaac60a1838781aa8c53bc82516",
-    "expiresIn": 622080000,
     "data": {
-        "userId": 82,
-        "account": "admin_nova",
-        "userName": "admin_nova",
-        "phone": "15217297145",
-        "email": "13751733273@qq.com",
-        "password": "6cc2cd573cae23d40529b907e6488120",
-        "userRole": 1,
-        "company": {
-            "companyId": 48,
-            "companyName": "南凌",
-            "email": "huangyuhua@nova.net.cn",
-            "address": "深圳",
-            "legalPerson": "南凌管理员"
-        }
+        "userId": "098cddddbac811e78561b8aeed9e915f",
+        "account": "zhangzezhou",
+        "password": "20504cdfddaad0b590ca53c4861edd4f5f5cf9c348c38295bd2dbf0e91bca4c3",
+        "userName": "张泽洲",
+        "companyId": "1",
+        "phone": null,
+        "idCard": null,
+        "certificateName": null,
+        "certificateNum": null,
+        "gender": null,
+        "faceImageUrl": null,
+        "departId": "2",
+        "depart": {
+            "departId": "2",
+            "departName": "云服务与荣耀交付部",
+            "parentId": "1",
+            "parentDepart": {
+                "departId": "1",
+                "departName": "硬件交付部",
+                "parentId": null,
+                "parentDepart": null
+            }
+        },
+        "position": null,
+        "email": null
     },
-    "resultCode": "0"
+    "resultCode": 200,
+    "accessToken": "098cddddbac811e78561b8aeed9e915f_ee8096ea42844b36980ddc1cc85326ed",
+    "resultMsg": "登录成功"
 }
 ```
