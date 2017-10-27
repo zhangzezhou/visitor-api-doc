@@ -18,10 +18,10 @@
 | position| String | 职位|
 | email| String | 邮箱 |
 
-## AppUser 参数说明
+## Depart参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| userId| String | 用户id |
+| departId| String | 部门id |
 | account| String | 账户 |
 | password| String | 密码 |
 | userName | String| 用户名 |
