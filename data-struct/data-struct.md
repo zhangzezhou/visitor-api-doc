@@ -2,7 +2,7 @@
 ## AppUser 参数说明
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| appointmentId | String | 预约id |
+| userId| String | 用户id |
 | visitorId | String | 来访者用户id |
 | visitorName | String | 来访者姓名 |
 | visitorGender | Number | 来访者性别，1表示男，2表示女 |
@@ -21,8 +21,7 @@
 | deliveryOrderNum | String | 提货单号 |
 | status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
 | followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
-| createTime | Number | 创建时间 |
-| updateTime | Number | 更新时间 |
+
 
 
 ## Appointment参数说明
