@@ -15,8 +15,8 @@
 | faceImageUrl| String | 面部采样图片url |
 | departId | String | 部门id |
 | depart| String | 部门信息 |
-| position| String | 受访者企业id |
-| email| String | 预约事由 |
+| position| String | 职位|
+| email| String | 邮箱 |
 
 
 
