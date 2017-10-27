@@ -7,7 +7,7 @@
 | password| String | 密码 |
 | userName | String| 用户名 |
 | companyId| String | 企业Id |
-| visitorCompanyId | String | 来访者企业id |
+| phone| String | 联系方式 |
 | visitorTel | String | 来访者手机号 |
 | visitorLicencePlateNum | String | 来访者车牌号 |
 | visitorDepart | String | 来访者部门 |
