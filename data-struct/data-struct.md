@@ -14,7 +14,7 @@
 | gender| Integer| 性别，1表示男，2表示女 |
 | faceImageUrl| String | 面部采样图片url |
 | departId | String | 部门id |
-| depart| String | 部门信息 |
+| depart| Depart| 部门信息 |
 | position| String | 职位|
 | email| String | 邮箱 |
 
