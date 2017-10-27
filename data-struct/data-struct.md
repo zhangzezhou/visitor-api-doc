@@ -1,5 +1,5 @@
 # 数据结构
-AppUser 参数说明
+## AppUser 参数说明
 ## Appointment参数说明
 
 | 参数 | 类型 | 描述 |
