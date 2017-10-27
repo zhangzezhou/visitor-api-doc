@@ -15,7 +15,7 @@ password  | string | 密码| 是
 ---|---|---
 accessToken  | string | 令牌
 expiresIn  | string | 令牌过期时间
-data  | User | 用户基本信息
+data  | AppUser | 用户基本信息
 resultCode  | string | [状态码](data-struct/code.md)
 resultMsg | string | 返回结果说明
 errorMsg | string | 异常信息
