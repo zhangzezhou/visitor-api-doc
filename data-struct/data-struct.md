@@ -3,7 +3,7 @@
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | userId| String | 用户id |
-| visitorId | String | 来访者用户id |
+| account| String | 账户 |
 | visitorName | String | 来访者姓名 |
 | visitorGender | Number | 来访者性别，1表示男，2表示女 |
 | visitorCompanyName | String | 来访者企业名 |
