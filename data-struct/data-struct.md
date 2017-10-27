@@ -22,21 +22,9 @@
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | departId| String | 部门id |
-| account| String | 账户 |
-| password| String | 密码 |
-| userName | String| 用户名 |
-| companyId| String | 企业Id |
-| phone| String | 联系方式 |
-| idCard| String | 身份证号|
-| certificateName | String |资格证书名称 |
-| certificateNum| String | 资格证书号码 |
-| gender| Integer| 性别，1表示男，2表示女 |
-| faceImageUrl| String | 面部采样图片url |
-| departId | String | 部门id |
-| depart| Depart| 部门信息 |
-| position| String | 职位|
-| email| String | 邮箱 |
-
+| departName| String | 账户 |
+| parentId| String | 父级部门ID|
+| parentDepart| Depart| 父级部门信息 |
 
 
 
