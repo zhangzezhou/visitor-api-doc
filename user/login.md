@@ -1,5 +1,5 @@
 # 用户登录
-### 接口地址：``{{base_url}}/api/app/accessToken ``
+### 接口地址：``{{base_url}}/api/authentication/accessToken ``
 ### 请求方法：POST
 ### 请求头：
 参数 | 参数值 | 是否必选
