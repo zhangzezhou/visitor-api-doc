@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | userId| String | 用户id |
 | account| String | 账户 |
-| visitorName | String | 来访者姓名 |
+| password| String | 密码 |
 | visitorGender | Number | 来访者性别，1表示男，2表示女 |
 | visitorCompanyName | String | 来访者企业名 |
 | visitorCompanyId | String | 来访者企业id |
