@@ -6,7 +6,7 @@
 | account| String | 账户 |
 | password| String | 密码 |
 | userName | String| 用户名 |
-| visitorCompanyName | String | 来访者企业名 |
+| companyId| String | 来访者企业名 |
 | visitorCompanyId | String | 来访者企业id |
 | visitorTel | String | 来访者手机号 |
 | visitorLicencePlateNum | String | 来访者车牌号 |
