@@ -15,11 +15,10 @@ pageSize|number|每页几条，默认5条|否
 参数 | 参数类型 | 描述 
 ---|---|---
 accessToken  | string | 令牌
-data  | PageInfo(/data-struct/data-struct.md/#appuser参数说明) | 用户基本信息
+data  | [PageInfo<List<AppUser>>](/data-struct/data-struct.md/#appuser参数说明) | 用户基本信息
 resultCode  | string | [状态码](data-struct/code.md)
 resultMsg | string | 返回结果说明
 errorMsg | string | 异常信息
-### data参数说明：:&nbsp;
 ### 请求示例：
 ```  
 {{base_url}}/api/app/accessToken
