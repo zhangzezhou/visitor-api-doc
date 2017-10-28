@@ -43,10 +43,7 @@
 ##### Body：
 
 ```json
-{
-    "account":"zhangzezhou",
-    "password":"asdqwe123"
-}
+
 ```
 
 ### 返回示例
