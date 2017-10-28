@@ -21,7 +21,7 @@ resultMsg | string | 返回结果说明
 errorMsg | string | 异常信息
 ### 请求示例：
 ```  
-{{base_url}}/api/app/accessToken
+{{base_url}}/api/app/appUser
 ```  
 ##### Header：
 ```
