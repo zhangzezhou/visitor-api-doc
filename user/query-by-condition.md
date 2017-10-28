@@ -19,6 +19,7 @@ data  | PageInfo(/data-struct/data-struct.md/#appuser参数说明) | 用户基�
 resultCode  | string | [状态码](data-struct/code.md)
 resultMsg | string | 返回结果说明
 errorMsg | string | 异常信息
+### data参数说明：:&nbsp;
 ### 请求示例：
 ```  
 {{base_url}}/api/app/accessToken
