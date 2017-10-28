@@ -9,7 +9,7 @@
 * [用户接口](user/login.md)
   * [登录接口](user/login.md)
   * [注册接口](user/register.md)
-  * [根据条件查询app用户列表接口](user/login.md)
+  * [根据条件查询app用户列表接口](user/query-by-condition.md)
 * [预约接口](/appointment/addAppointment.md)
   * [新增预约接口](/appointment/addAppointment.md)
 * [签到接口](/signInfo/addSignInfo.md)
