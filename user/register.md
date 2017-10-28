@@ -1,5 +1,5 @@
 # app用户注册
-### 接口地址：``{{base_url}}/api/app/accessToken ``
+### 接口地址：``{{base_url}}/api/app ``
 ### 请求方法：POST
 ### 请求头：
 参数 | 参数值 | 是否必选
