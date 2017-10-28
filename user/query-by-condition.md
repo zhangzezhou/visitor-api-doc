@@ -9,7 +9,7 @@ appToken | {appToken}（app调用接口的token） | 是
 参数 | 参数类型 | 描述 | 是否必选
 ---|---|---|---
 userName| string | 用户账号| 是
-password  | string | 密码| 是
+pageNum| number| 密码| 是
 ### 响应参数:&nbsp; 
 参数 | 参数类型 | 描述 
 ---|---|---
