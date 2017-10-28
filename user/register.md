@@ -1,4 +1,4 @@
-# 用户注册
+# app用户注册
 ### 接口地址：``{{base_url}}/api/app/accessToken ``
 ### 请求方法：POST
 ### 请求头：
