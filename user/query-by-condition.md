@@ -23,7 +23,7 @@
 | 参数 | 参数类型 | 描述 |
 | --- | --- | --- |
 | accessToken | string | 令牌 |
-| data | PageInfo&lt;List&lt;AppUser&gt;&gt; | 用户基本信息 |
+| data | PageInfoListAppUser | 用户基本信息 |
 | resultCode | string | [状态码](data-struct/code.md) |
 | resultMsg | string | 返回结果说明 |
 | errorMsg | string | 异常信息 |
