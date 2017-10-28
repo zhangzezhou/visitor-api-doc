@@ -26,6 +26,9 @@ errorMsg | string | 异常信息
 ##### Header：
 ```
 "Content-Type":"application/json"
+"appToken ":"asdfgghhh"
+
+
 ```
 ##### Body：
 ```json
