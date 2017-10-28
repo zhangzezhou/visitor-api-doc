@@ -9,8 +9,8 @@ appToken | {appToken}（app调用接口的token） | 是
 参数 | 参数类型 | 描述 | 是否必选
 ---|---|---|---
 userName| string | 用户名| 否
-pageNum| number| 页码| 否
-pageSize|number|每页几条|否
+pageNum| number| 页码，默认第一页| 否
+pageSize|number|每页几条，默认5条数据|否
 ### 响应参数:&nbsp; 
 参数 | 参数类型 | 描述 
 ---|---|---
