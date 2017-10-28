@@ -4,11 +4,11 @@
 ### 请求头：
 参数 | 参数值 | 是否必选
 ---|---|---
-appToken | application/json | 是
+appToken | app调用接口的token | 是
 ### 请求参数:&nbsp; 
 参数 | 参数类型 | 描述 | 是否必选
 ---|---|---|---
-account  | string | 用户账号| 是
+user| string | 用户账号| 是
 password  | string | 密码| 是
 ### 响应参数:&nbsp; 
 参数 | 参数类型 | 描述 
