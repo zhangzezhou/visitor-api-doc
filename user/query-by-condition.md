@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | appToken | {appToken}（app调用接口的token） | 是 |
 
-### 请求参数: 
+### 请求参数:
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
@@ -18,12 +18,12 @@
 | pageNum | number | 页码，默认第一页 | 否 |
 | pageSize | number | 每页几条，默认5条 | 否 |
 
-### 响应参数: 
+### 响应参数:
 
 | 参数 | 参数类型 | 描述 |
 | --- | --- | --- |
 | accessToken | string | 令牌 |
-| data | PageInfoListAppUser | 用户基本信息 |
+| data | PageInfo&lt;List&lt;AppUser&gt;&gt; | 用户基本信息 |
 | resultCode | string | [状态码](data-struct/code.md) |
 | resultMsg | string | 返回结果说明 |
 | errorMsg | string | 异常信息 |
