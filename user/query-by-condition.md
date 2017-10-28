@@ -1,40 +1,56 @@
 # 根据条件查询app用户列表
-### 接口地址：``{{base_url}}/api/app/appUser ``
+
+### 接口地址：`{{base_url}}/api/app/appUser`
+
 ### 请求方法：POST
+
 ### 请求头：
-参数 | 参数值 | 是否必选
----|---|---
-appToken | {appToken}（app调用接口的token） | 是
-### 请求参数:&nbsp; 
-参数 | 参数类型 | 描述 | 是否必选
----|---|---|---
-userName| string | 用户名| 否
-pageNum| number| 页码，默认第一页| 否
-pageSize|number|每页几条，默认5条|否
-### 响应参数:&nbsp; 
-参数 | 参数类型 | 描述 
----|---|---
-accessToken  | string | 令牌
-data  | PageInfo | 用户基本信息
-resultCode  | string | [状态码](data-struct/code.md)
-resultMsg | string | 返回结果说明
-errorMsg | string | 异常信息
+
+| 参数 | 参数值 | 是否必选 |
+| --- | --- | --- |
+| appToken | {appToken}（app调用接口的token） | 是 |
+
+### 请求参数: 
+
+| 参数 | 参数类型 | 描述 | 是否必选 |
+| --- | --- | --- | --- |
+| userName | string | 用户名 | 否 |
+| pageNum | number | 页码，默认第一页 | 否 |
+| pageSize | number | 每页几条，默认5条 | 否 |
+
+### 响应参数: 
+
+| 参数 | 参数类型 | 描述 |
+| --- | --- | --- |
+| accessToken | string | 令牌 |
+| data | PageInfo&lt;List&lt;AppUser&gt;&gt; | 用户基本信息 |
+| resultCode | string | [状态码](data-struct/code.md) |
+| resultMsg | string | 返回结果说明 |
+| errorMsg | string | 异常信息 |
+
 ### 请求示例：
-```  
+
+```
 {{base_url}}/api/app/accessToken
-```  
+```
+
 ##### Header：
+
 ```
 "appToken ":"asdfgghhh"
 ```
+
 ##### Body：
+
 ```json
 {
-	"account":"zhangzezhou",
-	"password":"asdqwe123"
+    "account":"zhangzezhou",
+    "password":"asdqwe123"
 }
 ```
+
 ### 返回示例
+
 ```json
 {
     "data": {
@@ -69,3 +85,6 @@ errorMsg | string | 异常信息
     "resultMsg": "登录成功"
 }
 ```
+
+
+
