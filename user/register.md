@@ -36,25 +36,14 @@ errorMsg | string | 异常信息
 ```
 ### 返回示例
 ```json
-{
-    "accessToken": "002baaaac60a1838781aa8c53bc82516",
-    "expiresIn": 622080000,
+    "resultCode": 200,
+    "resultMsg": "创建成功",
     "data": {
-        "userId": 82,
-        "account": "admin_nova",
-        "userName": "admin_nova",
-        "phone": "15217297145",
-        "email": "13751733273@qq.com",
-        "password": "6cc2cd573cae23d40529b907e6488120",
-        "userRole": 1,
-        "company": {
-            "companyId": 48,
-            "companyName": "南凌",
-            "email": "huangyuhua@nova.net.cn",
-            "address": "深圳",
-            "legalPerson": "南凌管理员"
-        }
+        "userId": "952535f6bb2111e78561b8aeed9e915f",
+        "account": "sunpengwei",
+        "password": "2a16a2203188ee8d3860aa6dc9c8f4088d5c9e632d8d8b36f6d083b5f6067f70",
+        "userName": "孙朋维",
+        "companyId": "1"
     },
-    "resultCode": "0"
-}
+    "errorMsg": null
 ```
