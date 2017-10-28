@@ -4,7 +4,7 @@
 ### 请求头：
 参数 | 参数值 | 是否必选
 ---|---|---
-appToken | {{appToken}}（app调用接口的token） | 是
+appToken | {appToken}（app调用接口的token） | 是
 ### 请求参数:&nbsp; 
 参数 | 参数类型 | 描述 | 是否必选
 ---|---|---|---
