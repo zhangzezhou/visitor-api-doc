@@ -1,5 +1,5 @@
 # 根据条件查询app用户列表
-### 接口地址：``{{base_url}}/api/appUser ``
+### 接口地址：``{{base_url}}/api/app/appUser ``
 ### 请求方法：POST
 ### 请求头：
 参数 | 参数值 | 是否必选
