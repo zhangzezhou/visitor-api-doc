@@ -11,6 +11,7 @@ appToken | {appToken}（app调用接口的token） | 是
 ---|---|---|---
 account  | string | 用户账号| 是
 password  | string | 密码| 是
+userName |string|用户名|是
 ### 响应参数:&nbsp; 
 参数 | 参数类型 | 描述 
 ---|---|---
