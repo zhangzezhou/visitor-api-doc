@@ -31,7 +31,7 @@
 ### 请求示例：
 
 ```
-{{base_url}}/api/app/accessToken
+{{base_url}}/api/app/appUser
 ```
 
 ##### Header：
