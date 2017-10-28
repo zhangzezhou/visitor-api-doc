@@ -27,7 +27,7 @@
 | resultCode | string | [状态码](data-struct/code.md) |
 | resultMsg | string | 返回结果说明 |
 | errorMsg | string | 异常信息 |
-> PageInfo表示分页结构，具体参数说明查看PageInfo参数说明
+> PageInfo表示分页结构，具体参数说明查看[分页结构参数说明](data-struct/page.md)
 ### 请求示例：
 
 ```
