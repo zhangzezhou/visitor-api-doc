@@ -31,8 +31,9 @@ errorMsg | string | 异常信息
 ##### Body：
 ```json
 {
-	"account":"admin_nova",
-	"password":"admin_nova"
+	"account":"sunpengwei",
+	"password":"sunpengwei123",
+	"userName":"孙朋维"
 }
 ```
 ### 返回示例
