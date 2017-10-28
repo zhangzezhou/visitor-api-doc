@@ -24,7 +24,7 @@ errorMsg | string | 异常信息
 ```  
 ##### Header：
 ```
-"appToken ":"application/json"
+"appToken ":"asdfgghhh"
 ```
 ##### Body：
 ```json
