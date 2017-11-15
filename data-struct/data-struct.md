@@ -39,6 +39,7 @@
 | visitorCompanyId | String | 来访者企业id |
 | visitorTel | String | 来访者手机号 |
 | visitorLicencePlateNum | String | 来访者车牌号 |
+| visitorCertificateNum| String | 来访者车牌号 |
 | visitorDepart | String | 来访者部门 |
 | visitorPosition | String | 来访者职位 |
 | visitorPortaitUrl | String | 来访者面部采样照片 |
