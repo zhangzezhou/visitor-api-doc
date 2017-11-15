@@ -48,10 +48,10 @@
 | intervieweeName | String | 受访者姓名 |
 | intervieweeDepart | String | 受访者部门 |
 | intervieweeCompanyId | String | 受访者企业id |
+| intervieweeQualificationCertificateUrl| String | 受访者职业资格证  |
 | appointmentReason | String | 预约事由 |
 | appointmentTime | Number | 预约时间,时间戳 |
 | deliveryOrderNum | String | 提货单号 |
-| intervieweeQualificationCertificateUrl| String | 提货单号 |
 | status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |
 | followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
 | createTime | Number | 创建时间 |
