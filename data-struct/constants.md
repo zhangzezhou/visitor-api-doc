@@ -6,5 +6,6 @@
 401 | Unauthorized（未授权）
 403| FORBIDDEN（禁止操作）
 500| Internal Server Error(服务器内部错误)
+> 预约选项的组合采用2进制数组合的方式表示，1表示需要，0表示不需要
 
 
