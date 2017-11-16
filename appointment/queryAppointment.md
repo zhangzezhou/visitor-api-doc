@@ -15,9 +15,9 @@
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
-| visitorName | String | 来访者姓名 | 是|
-| visitorGender | Number | 来访者性别，1表示男，2表示女 |否|
-| visitorCompanyName | String | 来访者企业名 |是|
+| status| String | 按审核状态查询 | 否|
+| visitorGender | Number | 分页查询，页码 |否|
+| visitorCompanyName | String | 分页查询，每页多少条 |否|
 | visitorCompanyId | String | 来访者企业id |是|
 | visitorTel | String | 来访者手机号 |否|
 | visitorLicencePlateNum | String | 来访者车牌号 |否|
