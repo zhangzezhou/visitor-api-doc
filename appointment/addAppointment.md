@@ -87,25 +87,49 @@
 
 ```json
 {
-    "accessToken": "002baaaac60a1838781aa8c53bc82516",
-    "expiresIn": 622080000,
+    "resultCode": 200,
+    "resultMsg": "预约成功",
     "data": {
-        "userId": 82,
-        "account": "admin_nova",
-        "userName": "admin_nova",
-        "phone": "15217297145",
-        "email": "13751733273@qq.com",
-        "password": "6cc2cd573cae23d40529b907e6488120",
-        "userRole": 1,
-        "company": {
-            "companyId": 48,
-            "companyName": "南凌",
-            "email": "huangyuhua@nova.net.cn",
-            "address": "深圳",
-            "legalPerson": "南凌管理员"
-        }
+        "appointmentId": "d83fbd7dcaa011e78561b8aeed9e915f",
+        "visitorId": null,
+        "visitorName": "zzz",
+        "visitorGender": null,
+        "visitorCompanyName": "中软",
+        "visitorTel": "13751733273",
+        "visitorLicencePlateNum": null,
+        "visitorDepart": "荣耀交付部",
+        "visitorPosition": "Java工程师",
+        "visitorPortraitUrl": null,
+        "visitorCertificateNum": null,
+        "visitorCertificateFrontUrl": null,
+        "visitorCertificateReverseUrl": null,
+        "intervieweeId": null,
+        "intervieweeName": "张婧",
+        "intervieweeDepart": "硬件交付部",
+        "intervieweePosition": "PM",
+        "intervieweeCompanyName": "中软",
+        "intervieweeQualificationCertificateUrl": null,
+        "intervieweeCompanyId": "59",
+        "appointmentReason": "项目洽谈",
+        "appointmentReasonId": null,
+        "appointmentTime": 1509185697,
+        "appointmentEndTime": null,
+        "status": 1,
+        "rejectReason": null,
+        "inTrash": 1,
+        "remark": null,
+        "followerList": [
+            {
+                "followerId": "d8406d4acaa011e78561b8aeed9e915f",
+                "followerPortraitUrl": "",
+                "followerName": "zhangjing",
+                "appointmentId": "d83fbd7dcaa011e78561b8aeed9e915f",
+                "followerPhone": "13751733723"
+            }
+        ],
+        "regionList": []
     },
-    "resultCode": "0"
+    "errorMsg": null
 }
 ```
 
