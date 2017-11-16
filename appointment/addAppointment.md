@@ -32,7 +32,7 @@
 | intervieweeQualificationCertificateUrl| String | 受访者职业资格证  |否|
 | appointmentReason | String | 预约事由 |是|
 | appointmentTime | Number | 预约时间,时间戳 |是|
-| followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同行人列表 |是|
+| followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同行人列表 |否|
 
 
 ### 响应参数:
