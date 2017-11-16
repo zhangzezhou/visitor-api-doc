@@ -1,6 +1,6 @@
 # 访客易Api接口文档
 * base\_url\(外网\):[http://192.168.50.201:9090/visitor](http://192.168.50.201:9090/visitor)
-* base\_url\(测试服\):[http://192.168.50.201:9090/visitor](http://192.168.50.201:9090/visitor)
+* base\_url\(外网\):[http://192.168.50.201:9090/visitor](http://192.168.50.201:9090/visitor)
 * base\_url\(测试服\):[http://192.168.50.201:9090/visitor](http://192.168.50.201:9090/visitor)
 * base\_ngm_url\(测试服\):[http://192.168.50.201:9091/visitor](http://192.168.50.201:9091/visitor)
 * [`状态码`](code.md) 是系统中各种状态码的说明
