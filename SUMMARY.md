@@ -14,5 +14,4 @@
   * [新增预约接口](/appointment/addAppointment.md)
 * [签到接口](/signInfo/addSignInfo.md)
   * [签到接口](/signInfo/addSignInfo.md)
-* [企业接口](qi-ye-jie-kou.md)
 
