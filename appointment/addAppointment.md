@@ -18,8 +18,8 @@
 | visitorGender | Number | 来访者性别，1表示男，2表示女 |否|
 | visitorCompanyName | String | 来访者企业名 |是|
 | visitorCompanyId | String | 来访者企业id |是|
-| visitorTel | String | 来访者手机号 |是|
-| visitorLicencePlateNum | String | 来访者车牌号 |是|
+| visitorTel | String | 来访者手机号 |否|
+| visitorLicencePlateNum | String | 来访者车牌号 |否|
 | visitorCertificateNum| String | 来访者证件号 |是|
 | visitorCertificateFrontUrl| String | 来访者证件正面 |是|
 | visitorCertificateReverseUrl| String | 来访者证件反面 |是|
