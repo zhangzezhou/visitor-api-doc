@@ -2,7 +2,7 @@
 
 ### 接口地址：`{{base_url}}/api/app/appointment`
 
-### 请求方法：POST
+### 请求方法：GET
 
 ### 请求头：
 
