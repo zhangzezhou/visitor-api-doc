@@ -8,20 +8,21 @@
 
 | 参数 | 参数值 | 是否必选 |
 | --- | --- | --- |
-| accessToken| ${token}| 是|
+| accessToken | ${token} | 是 |
+
 ### 请求参数:
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
-| status| String | 按[预约状态](/data-struct/constants.md#预约状态)查询 | 否|
-| pageNum| Number | 分页查询，页码 |否|
-| pageSize | String | 分页查询，每页多少条 |否|
+| status | String | 按[预约状态](/data-struct/constants.md#预约状态)查询 | 否 |
+| pageNum | Number | 分页查询，页码 | 否 |
+| pageSize | String | 分页查询，每页多少条 | 否 |
 
 ### 响应参数:
 
 | 参数 | 参数类型 | 描述 |
 | --- | --- | --- |
-| data |  | 预约信息 |
+| data | PageInfo&lt;Appointment&gt; | 预约信息 |
 | resultCode | string | [状态码](/data-struct/code.md) |
 | resultMsg | string | 返回结果说明 |
 | errorMsg | string | 异常信息 |
@@ -42,26 +43,26 @@
 
 ```json
 {
-	"visitorName":"zzz",
-	"visitorCompanyName":"中软",
-	"visitorTel":"13751733273",
-	"visitorDepart":"荣耀交付部",
-	"visitorPosition":"Java工程师",
-	"intervieweeName":"张婧",
-	"intervieweeDepart":"硬件交付部",
-	"intervieweePosition":"PM",
-	"intervieweeCompanyName":"中软",
-	"intervieweeCompanyId":"59",
-	"appointmentReason":"项目洽谈",
-	"appointmentReasonId":"",
-	"appointmentTime":1509185697,
-	"followerList":[
-			{
-				"followerName":"zhangjing",
-				"followerPhone":"13751733723",
-				"followerPortraitUrl":""
-			}
-		]
+    "visitorName":"zzz",
+    "visitorCompanyName":"中软",
+    "visitorTel":"13751733273",
+    "visitorDepart":"荣耀交付部",
+    "visitorPosition":"Java工程师",
+    "intervieweeName":"张婧",
+    "intervieweeDepart":"硬件交付部",
+    "intervieweePosition":"PM",
+    "intervieweeCompanyName":"中软",
+    "intervieweeCompanyId":"59",
+    "appointmentReason":"项目洽谈",
+    "appointmentReasonId":"",
+    "appointmentTime":1509185697,
+    "followerList":[
+            {
+                "followerName":"zhangjing",
+                "followerPhone":"13751733723",
+                "followerPortraitUrl":""
+            }
+        ]
 }
 ```
 
