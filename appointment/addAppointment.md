@@ -60,8 +60,26 @@
 
 ```json
 {
-    "account":"admin_nova",
-    "password":"admin_nova"
+	"visitorName":"zzz",
+	"visitorCompanyName":"中软",
+	"visitorTel":"13751733273",
+	"visitorDepart":"荣耀交付部",
+	"visitorPosition":"Java工程师",
+	"intervieweeName":"张婧",
+	"intervieweeDepart":"硬件交付部",
+	"intervieweePosition":"PM",
+	"intervieweeCompanyName":"中软",
+	"intervieweeCompanyId":"59",
+	"appointmentReason":"项目洽谈",
+	"appointmentReasonId":"",
+	"appointmentTime":1509185697,
+	"followerList":[
+			{
+				"followerName":"zhangjing",
+				"followerPhone":"13751733723",
+				"followerPortraitUrl":""
+			}
+		]
 }
 ```
 
