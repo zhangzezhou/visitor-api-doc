@@ -9,7 +9,7 @@
 | 参数 | 参数值 | 是否必选 |
 | --- | --- | --- |
 | status| 按审核状态查询| 否|
-| pageNum| Number| 否|
+| pageNum| 分页查询，页码| 否|
 | pageSize| Number| 否|
 ### 请求参数:
 
