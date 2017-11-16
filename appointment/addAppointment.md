@@ -34,7 +34,7 @@
 | appointmentTime | Number | 预约时间,时间戳 |是|
 | deliveryOrderNum | String | 提货单号 |是|
 | status | Number | 审核状态，1是审核中，2是审核成功，3是审核失败 |是|
-| followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
+| followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |是|
 
 
 ### 响应参数:
