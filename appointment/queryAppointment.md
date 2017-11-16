@@ -13,7 +13,7 @@
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
-| status| String | 按[预约状态](/data-struct/constants.md#yuyuezhuangtai)查询 | 否|
+| status| String | 按[预约状态](/data-struct/constants.md#预约状态)查询 | 否|
 | pageNum| Number | 分页查询，页码 |否|
 | pageSize | String | 分页查询，每页多少条 |否|
 
