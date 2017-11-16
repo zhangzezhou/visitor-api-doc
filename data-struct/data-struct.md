@@ -56,6 +56,7 @@
 | followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
 | regionList | Arrary&lt;[Region](/data-struct/data-struct.md#region参数说明)&gt; | 预约区域列表 |
 | rejectReason| String | 拒绝原因 |
+|appointmentEndTime|Number|预约结束时间|
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
 
