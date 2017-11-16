@@ -29,7 +29,7 @@
 | intervieweeName | String | 受访者姓名 |是|
 | intervieweeDepart | String | 受访者部门 |是|
 | intervieweeCompanyId | String | 受访者企业id |是|
-| intervieweeQualificationCertificateUrl| String | 受访者职业资格证  |是|
+| intervieweeQualificationCertificateUrl| String | 受访者职业资格证  |否|
 | appointmentReason | String | 预约事由 |是|
 | appointmentTime | Number | 预约时间,时间戳 |是|
 | deliveryOrderNum | String | 提货单号 |是|
