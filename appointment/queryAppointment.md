@@ -10,9 +10,7 @@
 | --- | --- | --- |
 | status| Number| 否|
 | pageNum| Number| 否|
-| pageNum| Number| 否|
-
-
+| pageSize| Number| 否|
 ### 请求参数:
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
