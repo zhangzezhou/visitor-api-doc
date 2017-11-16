@@ -8,7 +8,7 @@
 
 | 参数 | 参数值 | 是否必选 |
 | --- | --- | --- |
-| accessToken | String | 是 |
+| status| String | 是 |
 
 ### 请求参数:
 
