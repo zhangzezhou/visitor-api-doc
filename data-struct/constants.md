@@ -2,7 +2,7 @@
 ## 预约选项
 预约选项 | 描述
 ---|---
-职业资格证| OK(请求成功)
+职业资格证| 从右往左第四个二进制位
 签退| Unauthorized（未授权）
 车牌| FORBIDDEN（禁止操作）
 同行人| Internal Server Error(服务器内部错误)
