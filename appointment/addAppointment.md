@@ -25,7 +25,7 @@
 | visitorCertificateReverseUrl| String | 来访者证件反面 |是|
 | visitorDepart | String | 来访者部门 |否|
 | visitorPosition | String | 来访者职位 |否|
-| visitorPortaitUrl | String | 来访者面部采样照片 |是|
+| visitorPortaitUrl | String | 来访者面部采样照片 |否|
 | intervieweeName | String | 受访者姓名 |是|
 | intervieweeDepart | String | 受访者部门 |是|
 | intervieweeCompanyId | String | 受访者企业id |是|
