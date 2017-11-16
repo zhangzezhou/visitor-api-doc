@@ -55,6 +55,7 @@
 | status | Number | 1是待审核，2是审核成功，3是审核失败,4是审核中，5是取消预约 |
 | followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
 | followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同性人列表 |
+| appointmentReason | String | 预约事由 |
 
 | createTime | Number | 创建时间 |
 | updateTime | Number | 更新时间 |
