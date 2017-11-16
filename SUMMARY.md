@@ -12,7 +12,7 @@
   * [根据条件查询app用户列表接口](user/query-by-condition.md)
 * [预约接口](/appointment/addAppointment.md)
   * [新增预约接口](/appointment/addAppointment.md)
-  * [根据条件查询预约接口](/appointment/addAppointment.md)
+  * [根据条件查询预约接口](/appointment/queryAppointment.md)
 * [签到接口](/signInfo/addSignInfo.md)
   * [签到接口](/signInfo/addSignInfo.md)
 
