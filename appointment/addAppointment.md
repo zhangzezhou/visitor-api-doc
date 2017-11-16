@@ -32,8 +32,6 @@
 | intervieweeQualificationCertificateUrl| String | 受访者职业资格证  |否|
 | appointmentReason | String | 预约事由 |是|
 | appointmentTime | Number | 预约时间,时间戳 |是|
-| deliveryOrderNum | String | 提货单号 |是|
-| status | Number | 1是待审核，2是审核成功，3是审核失败,4是审核中，5是取消预约 |是|
 | followerList | Arrary&lt;[Follower](/data-struct/data-struct.md#follower参数说明)&gt; | 同行人列表 |是|
 
 
