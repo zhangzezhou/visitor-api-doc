@@ -14,7 +14,7 @@
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
-| visitorName | String | 来访者姓名 | 是|
+| visitorName | String | 来访者姓名 | 是
 | visitorGender | Number | 来访者性别，1表示男，2表示女 |
 | visitorCompanyName | String | 来访者企业名 |
 | visitorCompanyId | String | 来访者企业id |
