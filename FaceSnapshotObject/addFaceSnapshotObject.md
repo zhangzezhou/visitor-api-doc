@@ -44,7 +44,7 @@
 
 ```json
 {
-    "visitorName":"zzz",
+    "faceObjectId":"zzz",
     "visitorCompanyName":"中软",
     "visitorTel":"13751733273",
     "visitorDepart":"荣耀交付部",
