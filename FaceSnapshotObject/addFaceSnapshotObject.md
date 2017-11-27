@@ -15,7 +15,7 @@
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
 | faceObjectId| String | 人脸对象id | 是 |
-| visitorGender | Number | 来访者性别，1表示男，2表示女 | 否 |
+| faceObjectType| Number | 人脸对象类型,1是黑名单，2是员工，3是顾客，4是VIP顾客,5是陌生人 | 否 |
 | visitorCompanyName | String | 来访者企业名 | 是 |
 | visitorCompanyId | String | 来访者企业id | 是 |
 | visitorTel | String | 来访者手机号 | 否 |
