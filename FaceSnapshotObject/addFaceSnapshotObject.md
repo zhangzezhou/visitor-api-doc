@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | faceObjectId| String | 人脸对象id | 是 |
 | faceObjectType| Number | 人脸对象类型,1是黑名单，2是员工，3是顾客，4是VIP顾客,5是陌生人 | 是  |
-| firstSnapshotTime| String | 第一次抓拍时间 | 否 |
+| firstSnapshotTime| Number | 第一次抓拍时间 | 否 |
 | visitorCompanyId | String | 最后一次抓拍时间 | 否 |
 | visitorTel | String | 来访者手机号 | 否 |
 | visitorLicencePlateNum | String | 来访者车牌号 | 否 |
