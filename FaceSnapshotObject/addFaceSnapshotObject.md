@@ -57,7 +57,7 @@
 ```json
 {
     "resultCode": 200,
-    "resultMsg": "预约成功",
+    "resultMsg": "",
     "data": null,
     "errorMsg": null
 }
