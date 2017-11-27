@@ -24,7 +24,6 @@
 
 | 参数 | 参数类型 | 描述 |
 | --- | --- | --- |
-| data | [Appointment](/data-struct/data-struct.md/#appointment参数说明) | 预约信息 |
 | resultCode | string | [状态码](/data-struct/code.md) |
 | resultMsg | string | 返回结果说明 |
 | errorMsg | string | 异常信息 |
