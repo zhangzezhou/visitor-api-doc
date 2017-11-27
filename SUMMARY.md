@@ -13,8 +13,8 @@
 * [预约接口](/appointment/addAppointment.md)
   * [新增预约接口](/appointment/addAppointment.md)
   * [根据条件查询预约接口](/appointment/queryAppointment.md)
-* [人脸接口](/faceSnapshotObject/addFaceSnapshotObject.md)
-  * [人脸抓拍推送接口](/faceSnapshotObject/addFaceSnapshotObject.md)
+* [人脸接口](/face-snapshot-object/addFaceSnapshotObject.md)
+  * [人脸抓拍推送接口](/face-snapshot-object/addFaceSnapshotObject.md)
 
 
 
