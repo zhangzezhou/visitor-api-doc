@@ -16,8 +16,7 @@
 | --- | --- | --- | --- |
 | userId| String | 人脸对象id | 是 |
 | faceTemplateId| String | 人脸模板id | 是  |
-| firstSnapshotTime| Number | 第一次抓拍时间（时间戳） | 否 |
-| lastSnapshotTime| Number | 最后一次抓拍时间（时间戳） | 否 |
+| snapshotTime| Number | 抓拍时间（时间戳） | 否 |
 | faceImageUrl| String | 抓拍人脸图片url| 是 |
 
 ### 响应参数:
