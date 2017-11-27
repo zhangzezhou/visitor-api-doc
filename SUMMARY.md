@@ -16,7 +16,7 @@
 * [人脸抓拍推送接口](/appointment/addAppointment.md)
   * [新增预约接口](/appointment/addAppointment.md)
 
-  FaceSnapshotObject/addFaceSnapshotObject.md
+  faceSnapshotObject/addFaceSnapshotObject.md
 
 
 
