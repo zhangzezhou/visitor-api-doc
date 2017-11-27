@@ -46,7 +46,6 @@
     "faceObjectId":"d83fbd7dcaa011e78561b8aeed9e915f",
     "faceTemplateId":"d83fbd7dcaa011e78561b8aeed9e915f",
     "snapshotTime":"1509185697",
-    "lastSnapshotTime":"1509185697",
     "faceImageUrl":"http://a.hiphotos.baidu.com/image/pic/item/00e93901213fb80e3b0a611d3fd12f2eb8389424.jpg"
 }
 ```
