@@ -1,6 +1,6 @@
 # 新增预约接口
 
-### 接口地址：`{{base_url}}/api/app/appointment`
+### 接口地址：`{{base_url}}/api/app/faceSnapshotObject`
 
 ### 请求方法：POST
 
