@@ -45,7 +45,7 @@
 ```json
 {
     "faceObjectId":"zzz",
-    "faceObjectType":"中软",
+    "faceObjectType":1,
     "firstSnapshotTime":"13751733273",
     "lastSnapshotTime":"荣耀交付部",
     "faceImageUrl":"Java工程师"
