@@ -45,10 +45,10 @@
 ```json
 {
     "faceObjectId":"zzz",
-    "visitorCompanyName":"中软",
-    "visitorTel":"13751733273",
-    "visitorDepart":"荣耀交付部",
-    "visitorPosition":"Java工程师",
+    "faceObjectType":"中软",
+    "firstSnapshotTime":"13751733273",
+    "lastSnapshotTime":"荣耀交付部",
+    "faceImageUrl":"Java工程师",
     "intervieweeName":"张婧",
     "intervieweeDepart":"硬件交付部",
     "intervieweePosition":"PM",
