@@ -1,4 +1,4 @@
-# 新增预约接口
+# 人脸抓拍推送接口
 
 ### 接口地址：`{{base_url}}/api/app/faceSnapshotObject`
 
