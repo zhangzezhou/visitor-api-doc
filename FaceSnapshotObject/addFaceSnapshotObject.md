@@ -57,7 +57,7 @@
 ```json
 {
     "resultCode": 200,
-    "resultMsg": "",
+    "resultMsg": "接收抓拍",
     "data": null,
     "errorMsg": null
 }
