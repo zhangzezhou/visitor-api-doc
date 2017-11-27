@@ -48,22 +48,7 @@
     "faceObjectType":"中软",
     "firstSnapshotTime":"13751733273",
     "lastSnapshotTime":"荣耀交付部",
-    "faceImageUrl":"Java工程师",
-    "intervieweeName":"张婧",
-    "intervieweeDepart":"硬件交付部",
-    "intervieweePosition":"PM",
-    "intervieweeCompanyName":"中软",
-    "intervieweeCompanyId":"59",
-    "appointmentReason":"项目洽谈",
-    "appointmentReasonId":"",
-    "appointmentTime":1509185697,
-    "followerList":[
-            {
-                "followerName":"zhangjing",
-                "followerPhone":"13751733723",
-                "followerPortraitUrl":""
-            }
-        ]
+    "faceImageUrl":"Java工程师"
 }
 ```
 
