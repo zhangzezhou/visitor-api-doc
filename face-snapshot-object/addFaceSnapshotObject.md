@@ -14,7 +14,7 @@
 
 | 参数 | 参数类型 | 描述 | 是否必选 |
 | --- | --- | --- | --- |
-| userId| String | 人脸对象id | 是 |
+| userId| String | 人员证件号（唯一） | 是 |
 | deviceId| String | 设备id | 是  |
 | faceObjectId| String | 人脸对象id | 是  |
 | snapshotTime| Number | 抓拍时间（时间戳） | 否 |
