@@ -19,6 +19,10 @@
 | faceObjectId| String | 人脸对象id | 是  |
 | snapshotTime| Number | 抓拍时间（时间戳） | 否 |
 | faceImageUrl| String | 抓拍人脸图片url| 是 |
+| gender| Integer| 抓拍人脸图片url| 是 |
+
+
+
 
 ### 响应参数:
 
