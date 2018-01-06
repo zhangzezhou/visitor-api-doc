@@ -20,7 +20,11 @@
 | snapshotTime| Number | 抓拍时间（时间戳） | 否 |
 | faceImageUrl| String | 抓拍人脸图片url| 是 |
 | gender| Integer| 性别| 否 |
-
+| age| Integer| 年龄| 否 |
+| race| Integer| 人种,0白种人，1亚洲人，2黑种人| 否 |
+| sunglasses| Integer| 0表示未带墨镜，1表示已带墨镜| 否 |
+| gender| Integer| 性别| 否 |
+| gender| Integer| 性别| 否 |
 
 
 
