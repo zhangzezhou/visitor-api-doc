@@ -24,9 +24,8 @@
 | race| Integer| 人种,0白种人，1亚洲人，2黑种人| 否 |
 | sunglasses| Integer| 0表示未带墨镜，1表示已带墨镜| 否 |
 | similarity| Float| 相似度| 否 |
+| baseLibraryPersonImageUrl| Integer| 性别| 否 |
 | gender| Integer| 性别| 否 |
-
-
 
 ### 响应参数:
 
